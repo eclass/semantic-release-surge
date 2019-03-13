@@ -2,6 +2,7 @@ language: node_js
 cache:
   directories:
     - ~/.npm
+    - .nyc_output
 node_js:
   - "11"
 notifications:
