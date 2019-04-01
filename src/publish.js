@@ -15,7 +15,7 @@ module.exports = async (
   logger.log(`Upload assets with alias ${alias}`)
   try {
     await stat(path.join(cwd, assets))
-    const publishResult = execa('npx', ['surge', assets, alias], { cwd, env })
+    const publishResult = execa('surge', [assets, alias], { cwd, env })
     publishResult.stdout.pipe(
       stdout,
       { end: false }
@@ -26,7 +26,7 @@ module.exports = async (
     )
     await publishResult
     if (cname) {
-      const publishCnameResult = execa('npx', ['surge', assets, cname], {
+      const publishCnameResult = execa('surge', [assets, cname], {
         cwd,
         env
       })
@@ -42,6 +42,8 @@ module.exports = async (
       await publishCnameResult
     }
   } catch (error) {
+    // eslint-disable-next-line no-console
+    console.error(error)
     throw getError('EINVALIDASSETS', { assets })
   }
 }
