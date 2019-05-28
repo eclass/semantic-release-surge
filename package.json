@@ -1,6 +1,6 @@
 {
   "name": "@eclass/semantic-release-surge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "semantic-release plugin to publish a static site with surge.sh",
   "main": "src/index.js",
   "scripts": {
