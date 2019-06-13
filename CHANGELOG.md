@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/eclass/semantic-release-surge/compare/v1.0.2...v1.0.3) (2019-06-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency aggregate-error to v3 ([0558dbf](https://github.com/eclass/semantic-release-surge/commit/0558dbf))
+
 ## [1.0.2](https://github.com/eclass/semantic-release-surge/compare/v1.0.1...v1.0.2) (2019-05-28)
 
 
