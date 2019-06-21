@@ -47,7 +47,7 @@
     "@semantic-release/npm": "5.1.9",
     "@types/chai": "4.1.7",
     "@types/mocha": "5.2.7",
-    "@types/node": "11.13.14",
+    "@types/node": "11.13.15",
     "chai": "4.2.0",
     "eslint": "5.16.0",
     "eslint-config-standard": "12.0.0",
