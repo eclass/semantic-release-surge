@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/eclass/semantic-release-surge/compare/v1.0.3...v1.0.4) (2019-06-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency execa to v2 ([cca5028](https://github.com/eclass/semantic-release-surge/commit/cca5028))
+
 ## [1.0.3](https://github.com/eclass/semantic-release-surge/compare/v1.0.2...v1.0.3) (2019-06-13)
 
 
