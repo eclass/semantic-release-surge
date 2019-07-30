@@ -64,7 +64,7 @@
     "nyc": "14.1.1",
     "nyc-config-common": "1.0.1",
     "prettier-standard": "9.1.1",
-    "semantic-release": "15.13.18",
+    "semantic-release": "15.13.19",
     "sinon": "7.3.2",
     "stream-buffers": "3.0.2",
     "tempy": "0.3.0"
