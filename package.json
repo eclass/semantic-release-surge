@@ -45,7 +45,7 @@
     "@semantic-release/git": "7.0.16",
     "@semantic-release/github": "5.4.3",
     "@semantic-release/npm": "5.1.15",
-    "@types/chai": "4.2.1",
+    "@types/chai": "4.2.2",
     "@types/mocha": "5.2.7",
     "@types/node": "11.13.20",
     "chai": "4.2.0",
