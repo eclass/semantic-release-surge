@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/eclass/semantic-release-surge/compare/v1.0.4...v1.0.5) (2019-09-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependencies ([d0a363f](https://github.com/eclass/semantic-release-surge/commit/d0a363f))
+
 ## [1.0.4](https://github.com/eclass/semantic-release-surge/compare/v1.0.3...v1.0.4) (2019-06-26)
 
 
