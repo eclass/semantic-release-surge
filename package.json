@@ -61,7 +61,7 @@
     "npm-github-config": "2.0.0",
     "nyc": "14.1.1",
     "nyc-config-common": "1.0.1",
-    "prettier-standard": "14.1.1",
+    "prettier-standard": "15.0.1",
     "semantic-release": "15.13.24",
     "sinon": "7.5.0",
     "stream-buffers": "3.0.2",
