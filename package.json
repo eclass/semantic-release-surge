@@ -41,7 +41,7 @@
     "@commitlint/config-conventional": "8.2.0",
     "@semantic-release/changelog": "3.0.4",
     "@semantic-release/git": "7.0.16",
-    "@semantic-release/github": "5.5.3",
+    "@semantic-release/github": "5.5.4",
     "@semantic-release/npm": "5.2.0",
     "@types/chai": "4.2.3",
     "@types/mocha": "5.2.7",
@@ -62,7 +62,7 @@
     "nyc": "14.1.1",
     "nyc-config-common": "1.0.1",
     "prettier-standard": "15.0.1",
-    "semantic-release": "15.13.24",
+    "semantic-release": "15.13.27",
     "sinon": "7.5.0",
     "stream-buffers": "3.0.2",
     "tempy": "0.3.0"
