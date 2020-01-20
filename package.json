@@ -40,9 +40,9 @@
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
     "@semantic-release/changelog": "3.0.6",
-    "@semantic-release/git": "7.0.18",
-    "@semantic-release/github": "5.5.8",
-    "@semantic-release/npm": "5.3.5",
+    "@semantic-release/git": "8.0.0",
+    "@semantic-release/github": "6.0.1",
+    "@semantic-release/npm": "6.0.0",
     "@types/chai": "4.2.7",
     "@types/mocha": "5.2.7",
     "@types/node": "12.12.25",
@@ -62,13 +62,13 @@
     "nyc": "15.0.0",
     "nyc-config-common": "1.0.1",
     "prettier-standard": "16.1.0",
-    "semantic-release": "15.14.0",
+    "semantic-release": "16.0.2",
     "sinon": "8.1.0",
     "stream-buffers": "3.0.2",
     "tempy": "0.3.0"
   },
   "peerDependencies": {
-    "semantic-release": ">=11.0.0 <16.0.0"
+    "semantic-release": ">=11.0.0 <17.0.0"
   },
   "eslintConfig": {
     "extends": "standard",
