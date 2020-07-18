@@ -47,7 +47,7 @@
     "@types/mocha": "7.0.2",
     "@types/node": "12.12.50",
     "chai": "4.2.0",
-    "eslint": "7.4.0",
+    "eslint": "7.5.0",
     "eslint-config-standard": "14.1.1",
     "eslint-plugin-import": "2.21.2",
     "eslint-plugin-node": "11.1.0",
