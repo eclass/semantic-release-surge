@@ -44,7 +44,7 @@
     "@semantic-release/github": "7.0.7",
     "@semantic-release/npm": "7.0.5",
     "@types/chai": "4.2.12",
-    "@types/mocha": "8.0.1",
+    "@types/mocha": "8.0.2",
     "@types/node": "12.12.54",
     "chai": "4.2.0",
     "eslint": "7.6.0",
