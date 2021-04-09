@@ -34,7 +34,7 @@
     "aggregate-error": "^3.0.0",
     "execa": "^4.0.0",
     "read-pkg": "^5.2.0",
-    "surge": "^0.22.0"
+    "surge": "^0.23.0"
   },
   "devDependencies": {
     "@commitlint/cli": "9.1.2",
