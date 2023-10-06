@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/eclass/semantic-release-surge/compare/v1.0.9...v1.1.0) (2023-10-06)
+
+
+### Features
+
+* **change:** correction version compatibiliy semantic-release ([#587](https://github.com/eclass/semantic-release-surge/issues/587)) ([f54ad9c](https://github.com/eclass/semantic-release-surge/commit/f54ad9c04371509a6fbc3a3dee15865a42bce444))
+* **correction:** correction semantic-release version ([#586](https://github.com/eclass/semantic-release-surge/issues/586)) ([4e82ac1](https://github.com/eclass/semantic-release-surge/commit/4e82ac1aae3e511a45c1380811c2c49a666bcff6))
+* **releas:** return old version with compatibility ([#589](https://github.com/eclass/semantic-release-surge/issues/589)) ([91a2092](https://github.com/eclass/semantic-release-surge/commit/91a2092369ffd665cf7050b34fd01647cdbd389a))
+* **release:** correction version semantic ([#588](https://github.com/eclass/semantic-release-surge/issues/588)) ([5c1712c](https://github.com/eclass/semantic-release-surge/commit/5c1712cdc829c603a7aa1e40f0560edaf272b2d4))
+* **renovate:** execa and test ([#585](https://github.com/eclass/semantic-release-surge/issues/585)) ([817c941](https://github.com/eclass/semantic-release-surge/commit/817c941e3e63a31148b9c7991f2fc196a07fe759))
+* **renovate:** semantic release and ci/cd ([#582](https://github.com/eclass/semantic-release-surge/issues/582)) ([6993bd5](https://github.com/eclass/semantic-release-surge/commit/6993bd5a2e6bd31c04ad97d292f863b4683a7abb))
+
 ## [1.0.9](https://github.com/eclass/semantic-release-surge/compare/v1.0.8...v1.0.9) (2021-04-09)
 
 
