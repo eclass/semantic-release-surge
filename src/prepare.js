@@ -16,14 +16,8 @@ module.exports = async (
     logger.log(`Build assets with "npm run ${buildScriptName}"`)
 
     const buildResult = execa('npm', ['run', buildScriptName], { cwd, env })
-    buildResult.stdout.pipe(
-      stdout,
-      { end: false }
-    )
-    buildResult.stderr.pipe(
-      stderr,
-      { end: false }
-    )
+    buildResult.stdout.pipe(stdout, { end: false })
+    buildResult.stderr.pipe(stderr, { end: false })
 
     try {
       await buildResult
