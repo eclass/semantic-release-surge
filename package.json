@@ -7,7 +7,9 @@
     "lint": "eslint . --fix",
     "format": "prettier-standard '{src,test}/**/*.js'",
     "test": "nyc mocha test",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "engines": {
     "node": ">=10"
@@ -34,7 +36,8 @@
     "aggregate-error": "^3.0.0",
     "execa": "^4.0.0",
     "read-pkg": "^5.2.0",
-    "surge": "^0.23.0"
+    "surge": "^0.23.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@commitlint/cli": "9.1.2",
@@ -110,5 +113,6 @@
   },
   "nyc": {
     "extends": "nyc-config-common"
-  }
+  },
+  "snyk": true
 }
