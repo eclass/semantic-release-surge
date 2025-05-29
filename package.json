@@ -32,7 +32,7 @@
   "dependencies": {
     "@semantic-release/error": "^2.1.0",
     "aggregate-error": "^3.0.0",
-    "execa": "^4.0.0",
+    "execa": "^9.6.0",
     "read-pkg": "^5.2.0",
     "surge": "^0.23.0"
   },
