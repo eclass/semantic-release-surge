@@ -62,13 +62,13 @@
     "nyc": "15.1.0",
     "nyc-config-common": "1.0.1",
     "prettier-standard": "16.4.1",
-    "semantic-release": "17.4.2",
+    "semantic-release": "19.0.3",
     "sinon": "9.2.4",
     "stream-buffers": "3.0.2",
     "tempy": "0.7.1"
   },
   "peerDependencies": {
-    "semantic-release": ">=11.0.0 <18.0.0 || ^22.0.0"
+    "semantic-release": "^19.0.0"
   },
   "eslintConfig": {
     "extends": "standard",
